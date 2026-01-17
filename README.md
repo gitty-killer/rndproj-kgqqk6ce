@@ -1,4 +1,2 @@
-# rndproj-kgqqk6ce
-
-Random web project for tools.
-
+# rndproj-kgqqk6ce\n\nSmall CLI tool for text cleanup and formatting.\n
+New-FileDef
