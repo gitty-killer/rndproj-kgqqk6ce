@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-kgqqk6ce"",
+  ""goal"": ""sync worker for workflow automation"",
+  ""language"": ""go"",
+  ""template"": ""go-cli""
+}
